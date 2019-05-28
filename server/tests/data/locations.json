@@ -1,0 +1,821 @@
+{
+  "totals": 5076,
+  "data": [
+      {
+          "id": 7,
+          "category": "airport",
+          "placeId": "ChIJVVVVVflTqEcR6iq_Z319uWQ",
+          "iataCode": "TXL",
+          "translations": [
+              {
+                  "label": "(TXL) Berlin Tegel Airport",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "us",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "airport",
+                      "berlin airport",
+                      "airport berlin",
+                      "flughafen tegel",
+                      "flughafen tegel (airport) (berlin)"
+                  ]
+              },
+              {
+                  "label": "(TXL) Berlin Tegel Airport",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "gb",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "airport",
+                      "berlin airport",
+                      "airport berlin",
+                      "flughafen tegel",
+                      "flughafen tegel (airport) (berlin)"
+                  ]
+              },
+              {
+                  "label": "(TXL) Berlijn Tegel Luchthaven",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "nl",
+                  "terms": [
+                      "berlijn",
+                      "txl",
+                      "tegel",
+                      "luchthaven",
+                      "berlijn luchthaven",
+                      "luchthaven berlijn",
+                      "airport tegel",
+                      "berlin"
+                  ]
+              },
+              {
+                  "label": "(TXL) Aéroport de Berlin Tegel",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "fr",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "aéroport"
+                  ]
+              },
+              {
+                  "label": "(TXL) Aeroporto di Berlino Tegel",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "it",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "aeroporto",
+                      "berlino"
+                  ]
+              },
+              {
+                  "label": "(TXL) Aeropuerto de Berlín Tegel",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "es",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "aeropuerto",
+                      "berlín"
+                  ]
+              },
+              {
+                  "label": "(TXL) Flughafen Berlin Tegel",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "de",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "fulghafen",
+                      "fulghafen tegel",
+                      "tegel flughafen",
+                      "airport",
+                      "berlin airport",
+                      "flughafen tegel (airport) (berlin)"
+                  ]
+              },
+              {
+                  "label": "(TXL) Berlin Tegel Airport",
+                  "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin",
+                  "locale": "en",
+                  "terms": [
+                      "berlin",
+                      "txl",
+                      "tegel",
+                      "airport",
+                      "berlin airport",
+                      "airport berlin",
+                      "flughafen tegel",
+                      "flughafen tegel (airport) (berlin)"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 52.5588327,
+              "longitude": 13.2884374
+          },
+          "city": "Berlin",
+          "countryCode": "DE",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 783,
+          "category": "airport",
+          "placeId": "ChIJRW3aI1kTnkcRS89WOoV6xeM",
+          "iataCode": "MUC",
+          "translations": [
+              {
+                  "label": "(MUC) Munich Airport",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "en",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "airport",
+                      "münchen",
+                      "munich international",
+                      "münchen flughafen",
+                      "munich airport"
+                  ]
+              },
+              {
+                  "label": "(MUC) Aeropuerto de Munich",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "es",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "aeropuerto",
+                      "München",
+                      "Flughafen",
+                      "Munich International",
+                      "Munich Airport",
+                      "München Flughafen"
+                  ]
+              },
+              {
+                  "label": "(MUC) Aeroporto di Monaco",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "it",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "aeroporto",
+                      "monaco",
+                      "München",
+                      "München Flughafen",
+                      "Munich International",
+                      "Munich Airport"
+                  ]
+              },
+              {
+                  "label": "(MUC) Munich Airport",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "us",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "airport",
+                      "münchen",
+                      "munich international",
+                      "münchen flughafen",
+                      "munich airport"
+                  ]
+              },
+              {
+                  "label": "(MUC) Munich Airport",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "gb",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "airport",
+                      "münchen",
+                      "munich international",
+                      "münchen flughafen",
+                      "munich airport"
+                  ]
+              },
+              {
+                  "label": "(MUC) Munchen Luchthaven",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "nl",
+                  "terms": [
+                      "munchen",
+                      "muc",
+                      "luchthaven",
+                      "münchen",
+                      "munich international",
+                      "münchen flughafen",
+                      "munich airport"
+                  ]
+              },
+              {
+                  "label": "(MUC) Aéroport de Munich",
+                  "address": "85356 München Flughafen, Munich",
+                  "locale": "fr",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "aéroport",
+                      "münchen",
+                      "flughafen",
+                      "munich international",
+                      "munich airport",
+                      "münchen flughafen"
+                  ]
+              },
+              {
+                  "label": "(MUC) Flughafen München",
+                  "address": "85356 München Flughafen, München",
+                  "locale": "de",
+                  "terms": [
+                      "munich",
+                      "muc",
+                      "münchen",
+                      "flughafen",
+                      "airport",
+                      "munich international",
+                      "munich airport",
+                      "münchen flughafen"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 48.3536621,
+              "longitude": 11.7750279
+          },
+          "city": "Munich",
+          "countryCode": "DE",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 11,
+          "category": "airport",
+          "placeId": "ChIJUxLZNy7IuEcRVfTUlmn1Vls",
+          "iataCode": "DUS",
+          "translations": [
+              {
+                  "label": "(DUS) Düsseldorf Airport",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "gb",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "dusseldorf",
+                      "airport",
+                      "DÜS"
+                  ]
+              },
+              {
+                  "label": "(DUS) Düsseldorf Airport",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "us",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "dusseldorf",
+                      "airport",
+                      "DÜS"
+                  ]
+              },
+              {
+                  "label": "(DUS) Düsseldorf Luchthaven",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "nl",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "dusseldorf",
+                      "luchthaven",
+                      "DÜS",
+                      "luchthaven dusseldorf"
+                  ]
+              },
+              {
+                  "label": "(DUS) Aéroport de Düsseldorf",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "fr",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "flughafen",
+                      "aéroport",
+                      "düs",
+                      "DÜS"
+                  ]
+              },
+              {
+                  "label": "(DUS) Aeroporto de Düsseldorf",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "it",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "aeorporto",
+                      "flughafen",
+                      "düs",
+                      "DÜS"
+                  ]
+              },
+              {
+                  "label": "(DUS) Aeropuerto de Düsseldorf",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "es",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "aeropuerto",
+                      "flughafen",
+                      "DÜS",
+                      "düs"
+                  ]
+              },
+              {
+                  "label": "(DUS) Düsseldorf Flughafen",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "de",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "flughafen",
+                      "flughafen düsseldorf",
+                      "düsseldorf flughafen",
+                      "düsseldorf international",
+                      "DÜS"
+                  ]
+              },
+              {
+                  "label": "(DUS) Düsseldorf Airport",
+                  "address": "Flughafen Düsseldorf (DUS), Flughafenstraße 105, 40474 Düsseldorf, Deutschland",
+                  "locale": "en",
+                  "terms": [
+                      "dus",
+                      "düsseldorf",
+                      "dusseldorf",
+                      "airport",
+                      "DÜS"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 51.2876146,
+              "longitude": 6.7667912
+          },
+          "city": "Dusseldorf Taxi",
+          "countryCode": "DE",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 56,
+          "category": "airport",
+          "placeId": "ChIJeflCVHQLvUcRMfP4IU3YdIo",
+          "iataCode": "FRA",
+          "translations": [
+              {
+                  "label": "(FRA) Frankfurt Airport",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "us",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "fra",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(FRA) Frankfurt Airport",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "gb",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "fra",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(FRA) Frankfurt Am Main Luchthaven",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "nl",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "fra",
+                      "luchthaven"
+                  ]
+              },
+              {
+                  "label": "(FRA) Aéroport de Francfort-sur-le-Main",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "fr",
+                  "terms": [
+                      "frankfurt",
+                      "francfort",
+                      "fra",
+                      "francfort-sur-le-main",
+                      "aéroport"
+                  ]
+              },
+              {
+                  "label": "(FRA) Aeroporto di Francoforte sul Meno",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "it",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "francoforte",
+                      "fra",
+                      "aeroporto"
+                  ]
+              },
+              {
+                  "label": "(FRA) Aeropuerto de Fráncfort del Meno",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "es",
+                  "terms": [
+                      "frankfurt",
+                      "fra",
+                      "aeropuerto",
+                      "fráncfort"
+                  ]
+              },
+              {
+                  "label": "(FRA) Flughafen Frankfurt am Main",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "de",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "fra",
+                      "flughafen"
+                  ]
+              },
+              {
+                  "label": "(FRA) Frankfurt Airport",
+                  "address": "Flughafen Frankfurt am Main",
+                  "locale": "en",
+                  "terms": [
+                      "frankfurt",
+                      "frankfurt am main",
+                      "fra",
+                      "airport"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 50.0379326,
+              "longitude": 8.5621518
+          },
+          "city": "Frankfurt",
+          "countryCode": "DE",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 13,
+          "category": "airport",
+          "placeId": "ChIJm74aR6tVbEcRS5vSjRBSeiQ",
+          "iataCode": "VIE",
+          "translations": [
+              {
+                  "label": "(VIE) Vienna Airport",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "gb",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "wien",
+                      "flughafen",
+                      "wien flughafen"
+                  ]
+              },
+              {
+                  "label": "(VIE) Vienna Airport",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "us",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "wien",
+                      "flughafen",
+                      "wien flughafen"
+                  ]
+              },
+              {
+                  "label": "(VIE) Wenen-Schwechat Luchthaven",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "nl",
+                  "terms": [
+                      "vie",
+                      "wenen",
+                      "schwechat",
+                      "luchthaven",
+                      "wenen luchthaven"
+                  ]
+              },
+              {
+                  "label": "(VIE) Aéroport de Vienne",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "fr",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "vienne",
+                      "wien",
+                      "airport",
+                      "flughafen wien",
+                      "aéroport de vienne"
+                  ]
+              },
+              {
+                  "label": "(VIE) Aeroporto di Vienna",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "it",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "wien",
+                      "wien flughafen",
+                      "aeroporto",
+                      "airport",
+                      "flughafen"
+                  ]
+              },
+              {
+                  "label": "(VIE) Aeropuerto de Viena",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "es",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "viena",
+                      "wien",
+                      "wien flughafen",
+                      "airport",
+                      "aeropuerto"
+                  ]
+              },
+              {
+                  "label": "(VIE) Flughafen Wien",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "de",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "wien",
+                      "wien flughafen",
+                      "airport",
+                      "flughafen"
+                  ]
+              },
+              {
+                  "label": "(VIE) Vienna Airport",
+                  "address": "Wien-Flughafen, 1300 Schwechat, Austria",
+                  "locale": "en",
+                  "terms": [
+                      "vie",
+                      "vienna",
+                      "wien",
+                      "flughafen",
+                      "wien flughafen"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 48.1158333,
+              "longitude": 16.5665751
+          },
+          "city": "Vienna",
+          "countryCode": "AT",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 5222,
+          "category": "airport",
+          "placeId": "ChIJW89MjgM-5kcRLKZbL5jgKwQ",
+          "iataCode": "CDG",
+          "translations": [
+              {
+                  "label": "(CDG) Charles de Gaulle Airport",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "us",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "paris airport",
+                      "airport paris",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(CDG) Charles de Gaulle Airport",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "gb",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "paris airport",
+                      "airport paris",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(CDG) Parijs Charles de Gaulle Luchthaven",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "nl",
+                  "terms": [
+                      "parijs",
+                      "cdg",
+                      "parijs luchthaven",
+                      "luchthaven parijs",
+                      "airport parijs"
+                  ]
+              },
+              {
+                  "label": "(CDG) Charles de Gaulle Airport",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "en",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "paris airport",
+                      "airport paris",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(CDG) Flughafen Paris Charles de Gaulle",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "de",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "paris flughafen",
+                      "flughafen paris",
+                      "flughafen"
+                  ]
+              },
+              {
+                  "label": "(CDG) Aéroport de Paris Charles de Gaulle",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "fr",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "aéroport",
+                      "aéroport de paris",
+                      "aéroport paris"
+                  ]
+              },
+              {
+                  "label": "(CDG) Aeroporto di Parigi Charles de Gaulle",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "it",
+                  "terms": [
+                      "paris",
+                      "parigi",
+                      "cdg",
+                      "aeroporto di parigi",
+                      "aeroporto"
+                  ]
+              },
+              {
+                  "label": "(CDG) Aeropuerto de París Charles de Gaulle",
+                  "address": "95700 Roissy-en-France, France",
+                  "locale": "es",
+                  "terms": [
+                      "paris",
+                      "cdg",
+                      "parís",
+                      "aeropuerto de parís",
+                      "aeropuerto"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 49.0096906,
+              "longitude": 2.5479245
+          },
+          "city": "Paris Taxi",
+          "countryCode": "FR",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      },
+      {
+          "id": 12,
+          "category": "airport",
+          "placeId": "ChIJ78boUtfevkcRyEtFyzYll2Q",
+          "iataCode": "CGN",
+          "translations": [
+              {
+                  "label": "(CGN) Cologne Bonn Airport",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "gb",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(CGN) Cologne Bonn Airport",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "us",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "airport"
+                  ]
+              },
+              {
+                  "label": "(CGN) Keulen/Bonn Luchthaven",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "nl",
+                  "terms": [
+                      "cgn",
+                      "keulen",
+                      "airport",
+                      "bonn",
+                      "keulen bonn luchthaven"
+                  ]
+              },
+              {
+                  "label": "(CGN) Cologne Bonn Aéroport",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "fr",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "aéroport"
+                  ]
+              },
+              {
+                  "label": "(CGN) Aeroporto di Colonia Bonn",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "it",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "colonia",
+                      "aeroporto"
+                  ]
+              },
+              {
+                  "label": "(CGN) Aeropuerto de Colonia Bonn",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "es",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "aeropuerto",
+                      "colonia"
+                  ]
+              },
+              {
+                  "label": "(CGN) Köln Bonn Flughafen",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "de",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "flughafen",
+                      "köln"
+                  ]
+              },
+              {
+                  "label": "(CGN) Cologne Bonn Airport",
+                  "address": "Kennedystraße, 51147 Köln",
+                  "locale": "en",
+                  "terms": [
+                      "cgn",
+                      "cologne",
+                      "airport"
+                  ]
+              }
+          ],
+          "coordinates": {
+              "latitude": 50.8707168,
+              "longitude": 7.1407344
+          },
+          "city": "Cologne",
+          "countryCode": "DE",
+          "typeOfAddress": null,
+          "smartTypeOfAddress": null
+      }
+      
+  ]
+}
